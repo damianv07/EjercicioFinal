@@ -1,0 +1,9 @@
+1. Inicio
+2. Solicitar el nombre del asegurado
+3. Solicitar la edad 
+4. Solicitar información sobre su estado civil
+4.1 Si responde que sí, entonces preguntar la edad de su pareja
+4.2 Si responde que no, entonces continuar
+5. preguntar si tiene hijos
+5.1 si responde que sí, entonces preguntar la cantidad de hijos que tiene
+5.2 si responde que no, continuar.
